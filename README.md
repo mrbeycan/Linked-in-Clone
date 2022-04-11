@@ -1,3 +1,3 @@
 # Proje Tamamlandi
 
-![tamam](img/emrebeycan.png)
+![tamam](img/1.PNG)
